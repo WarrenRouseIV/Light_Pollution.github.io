@@ -96,11 +96,11 @@ border-color: #008c8c  }
     border: solid gold 2.5px;
     padding: 2px;
 }
-h1 {
-      text-decoration: underline;
-     font-family: georgia; 
+h1{
+    text-decoration: underline;
+    font-family: georgia; 
     color: #D4AF37;
-    }
+}
 strong{
     color: #D4AF37;
 }

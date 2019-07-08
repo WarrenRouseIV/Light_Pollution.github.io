@@ -2,6 +2,12 @@ html{
     font-family: georgia;
 }
 
+h1{
+    text-decoration: underline;
+    font-family: georgia; 
+    color: #D4AF37;
+}
+
 a{
     text-decoration: none;
     color: lightgoldenrodyellow;
@@ -53,4 +59,44 @@ li a:hover:not(.active) {
 body {
     background-color: black;
     color: lightgoldenrodyellow;
+}
+
+.info{
+    text-indent: 20px;
+    font-size: 25px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+#para1{
+    float:left;
+    margin-right: 70px;
+    margin-left: 70px;
+}
+
+#imgOne{
+    float: right;
+    margin-right: 20px;
+}
+
+#para2{
+    float:right;
+    margin-right: 70px;
+    margin-left: 70px;
+}
+
+#imgTwo{
+    float:left;
+    margin-left:20px;
+}
+
+#para3{
+    float: left;
+    margin-left: 70px;
+    margin-right: 70px;
+}
+
+#imgThree{
+    float:right;
+    margin-right: 20px;
 }

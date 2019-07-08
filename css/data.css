@@ -60,3 +60,26 @@ body {
     background-color: black;
     color: lightgoldenrodyellow;
 }
+
+#stats{
+    margin-right: 100px;
+    margin-left: 100px;
+    float: left;
+    text-align: left;
+    font-size: 20px;
+}
+
+li{
+    margin-bottom: 20px;
+}
+
+.statsImgs{
+    text-align: center;
+}
+
+#cap{
+    text-align: center;
+    margin-top: 5px;
+    margin-right: 350px;
+    margin-left: 350px;
+}

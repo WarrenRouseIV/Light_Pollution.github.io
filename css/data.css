@@ -1,13 +1,38 @@
+html{
+    font-family: georgia;
+}
+
+a{
+    text-decoration: none;
+    color: lightgoldenrodyellow;
+    font-family: georgia;
+}
+a:hover{
+    background-color:#ADD8E6;
+    color:black;
+}
+nav{
+    text-align: center;
+    padding: 10px;
+}
+#nava{
+    text-align: center;
+    border: solid 2px lightgoldenrodyellow;
+    /*border-radius:8px;*/
+    padding:4px 4px;
+}
+/*
 ul {
     list-style-type: none;
-    margin: 15;
-    padding: ;
+    margin: 15px;
+    padding: 5px;
     overflow: hidden;
-    background-color: white;
+    background-color: lightgrey;
 }
 
 li {
     float: left;
+    border: solid 2px black;
 }
 
 li a {
@@ -21,11 +46,11 @@ li a {
 li a:hover:not(.active) {
     background-color:  #ADD8E6;
 }
-
+*/
 .active {
     background-color: #D4AF37;
 }
 body {
     background-color: black;
-    color: white;
-} 
+    color: lightgoldenrodyellow;
+}

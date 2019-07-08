@@ -25,7 +25,35 @@ li a:hover:not(.active) {
 .active {
     background-color: #D4AF37;
 }
+
 body {
     background-color: black;
     color: white;
 } 
+
+#drawings{
+    margin-top: 10px;
+    display: block;
+}
+
+#setofbuttons{
+    margin-left: 140px;
+}
+
+#button{
+    font-family: Arial;
+    color:lightgoldenrodyellow;
+    background-color: black;
+}
+
+.picker{
+    position: absolute;
+    font-family: Arial;
+    color:lightgoldenrodyellow;
+    margin-left: 800px;
+}
+
+input{
+    display:block;
+    width:100%;
+}

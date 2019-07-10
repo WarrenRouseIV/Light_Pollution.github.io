@@ -32,7 +32,8 @@ nav{
     background-color: #D4AF37;
 }
 body {
-    background-color: black;
+   background-image: url("https://us.123rf.com/450wm/jaysi/jaysi1808/jaysi180800121/107238232-stars-and-galaxy-outer-space-sky-night-universe-black-starry-background.jpg?ver=6");
+    background-repeat: ;
     color: lightgoldenrodyellow;
 }
 p.dashed {border-style: dashed;}

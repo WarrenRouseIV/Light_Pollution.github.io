@@ -77,8 +77,20 @@ body {
     /*border: 2px solid #D4AF37;
     border-radius: 8px;*/
 }
-
+.float-img{
+    float: right;
+    clear: left;
+    margin-top: 15px;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-bottom: 15px;
+    border: solid gold 5px;
+    padding: 2px;
+}
 .img{
     float: center;
     border: 2px solid #D4AF37;
+}
+.clearfix {
+    overflow: auto;
 }

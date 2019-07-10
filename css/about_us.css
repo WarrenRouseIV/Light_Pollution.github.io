@@ -60,3 +60,24 @@ body {
     background-color: black;
     color: lightgoldenrodyellow;
 }
+
+/*#first_div{
+    margin-top: 20px;
+}*/
+
+.desc{
+    text-indent: 20px;
+    font-size: 20px;
+    float: left;
+    text-align: left;
+    width:50%;
+    padding: 5px;
+    margin-left: 50px;
+    /*border: 2px solid #D4AF37;
+    border-radius: 8px;*/
+}
+
+.img{
+    float: center;
+    border: 2px solid #D4AF37;
+}

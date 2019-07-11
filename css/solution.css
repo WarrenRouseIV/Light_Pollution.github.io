@@ -75,7 +75,8 @@ p.three {
 p.inset {border-style: inset;
 border-color: #008c8c  }
  p {
-    border: 2.5px dotted bule;
+    text-align: justify;
+     border: 2.5px dotted bule;
     text-indent: 50px;
     margin-top: 20px;
     margin-left: 10px;
